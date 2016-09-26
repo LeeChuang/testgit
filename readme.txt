@@ -4,3 +4,4 @@ Using Git.
 Add new line.
 New line is added.
 lalalalala.
+Creating a new branch is quick.
